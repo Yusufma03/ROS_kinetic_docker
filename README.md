@@ -12,4 +12,4 @@ chmod +x build.sh run.sh
 
 ## Acknowledgement
 
-The scripts are adpated from the [ROS-Explorer](https://github.com/atilaromero/ros-explorer).
+The scripts are created based on [ROS-Explorer](https://github.com/atilaromero/ros-explorer).
