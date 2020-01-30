@@ -1,2 +1,15 @@
 # ROS_kinetic_docker
-Customized ROS kinetic docker
+
+This repo contains a customized ROS Kinetic docker, which supports ROS stage, gazebo, and turtlebot navigation. The scripts also wrap the screen forwarding functions.
+
+To use, please
+
+```
+chmod +x build.sh run.sh
+./build.sh
+./run.sh
+```
+
+## Acknowledgement
+
+The scripts are adpated from the [ROS-Explorer](https://github.com/atilaromero/ros-explorer).
